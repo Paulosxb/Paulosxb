@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Paulo Sergio
 
 - 🤖 Atualmente trabalho com Desenvolvimento Web
-- 🐱‍💻Estudo Programação JavaScript e Python
+- 🐱‍💻Estudo Programação JavaScript e Python, Inteligência artificial, CMS em geral, Inglês, Espanhol 
 - 😜 Gosto de livros, series, filmes e videogame
 
 <div style="display: inline_block"><br>
